@@ -1,4 +1,4 @@
-# PDFInsertMapImage
+# PDF Insert Map Image
 
 The PDF Insert Map Image is a project created for Foxit Student Challenge.  This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see **Prize info** section below.
 
