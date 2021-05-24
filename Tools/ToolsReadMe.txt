@@ -1,0 +1,3 @@
+SignPlugin.bat uses PISignatureGen.exe.  The sample project will postbuild properties will automatically sign the fpi for you.  If you want to manually sign it yourself, double click on PISignatureGen.exe and select the plug-in path and the frdpisdkey.txt that is located in this tools directory.
+
+The Register_____.reg are registry files.  These will write the Windows registry that will link to your plug-in. If you change the file name of your plug-in make sure you register it correctl.  Open one of the RegisterBookmark.reg to see how it is handled. 
