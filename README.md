@@ -47,7 +47,7 @@ Participants must meet the following requirement for submission:
 * Must be able to legally accept the gift/prize
 
 ## Where can I find Foxit PhantomPDF Plug-in APIs?
-Please see "PDFTranslate\Document\Foxit Reader PDF API Reference.pdf"
+Please see "PDFInsertMapImage\Document\Foxit Reader PDF API Reference.pdf"
 
 ## Need Support?
 For Support, please contact Huy_Tran@foxitsoftware.com
