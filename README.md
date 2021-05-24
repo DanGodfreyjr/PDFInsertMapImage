@@ -33,10 +33,10 @@ No
 ## What do you get when you run the project now?
 1. Open Foxit PhantomPDF
 2. Open the any PDF with text content
-3. Select text in the PDF
-4. Right click
-5. Select Translate
-6. See a message of the selected text displayed.  To complete the first challenge, user should go to "PDFInsertMapImage\RibbonBrowser\RibbonBrowser\RibbonBrowser.cpp" and the function TranslateAction and traslate the valuate outText before it is displayed.
+3. Select BROWSER ribbon tab.
+4. Type website URL into empty field.
+5. A new window in Foxit Editor 11 will open displaying the website.
+6. To complete the challenge, you must adapt the browser search to search one address and add the image of the returned map to a pdf, or if two addresses are searched, return an image of the directions from the first to the second address.
 
 ## Prize Info
 If you completed all of the challenges, submit your project to email Huy_Tran@foxitsoftware.com
