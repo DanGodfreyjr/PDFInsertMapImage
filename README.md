@@ -54,7 +54,7 @@ For Support, please contact Huy_Tran@foxitsoftware.com
 
 or
 
-Join our Discord: https://discord.gg/5KGszf4H
+Join our Discord: https://discord.gg/4EXntNKk
 
 ## Don't like this challenge and want to create your own?
 You can your own challenge and also recieve a prize of completing the challenge that you set up for yourself.  
