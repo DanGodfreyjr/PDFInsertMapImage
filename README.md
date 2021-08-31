@@ -9,7 +9,7 @@ The PDF Insert Map Image is a project created for Foxit Student Challenge.  This
 - [ ] Be able to either drop onto a PDF or draw onto an area of the PDF.
 
 ## How to build and run the project?
-1. Download and install Foxit PhantomPDF https://cdn06.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/10.x/10.1/en_us/FoxitPhantomPDF1011_enu_Setup_Website.msi
+1. Download and install Foxit PDFEditor https://cdn06.foxitsoftware.com/product/phantomPDF/desktop/win/11.0.0/FoxitEditor110_enu_Setup_Website.msi
 2. Install Microsoft Visual Studio 2017 https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads
 3. Open "PDFInsertMapImage\RibbonBrowser\RibbonBrowser.sln" with Visual Studio 2017
 4. Install any project dependancy Visual Studio 2017 indicates that you are missing.
